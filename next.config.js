@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Configuración básica - elimina la opción 'appDir'
+  // Configuración básica
 }
 
 module.exports = nextConfig
